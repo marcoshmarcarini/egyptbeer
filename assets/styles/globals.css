@@ -70,3 +70,30 @@ body{
 .txt-ze{
     color: #0f2515 !important;
 }
+
+.content-ze{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+.titulo-ze{
+    margin-top: 400px;
+    margin-bottom: -200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.links-ze{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto;
+}
