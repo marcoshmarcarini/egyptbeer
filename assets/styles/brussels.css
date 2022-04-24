@@ -123,5 +123,6 @@ body{
     }
     .brussels-txt{
         text-align: justify;
+        max-width: 400px all;
     }
 }
