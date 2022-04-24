@@ -10,7 +10,7 @@ export default function PaginaInicial(){
             <Cabecalho/>
             <div className="conteudo-index">
                 <video autoPlay="autoplay" loop muted style={{ width: '1920px', height: '1080px' }} className="video-index">
-                    <source src="../video/video-index.mp4" />
+                    <source src="../video/video-index-compress.mp4" />
                 </video>
                 <div className="arvore-de-links">
                     <Logo/>
