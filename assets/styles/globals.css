@@ -92,6 +92,8 @@ body{
     height: 100vh;
     font-size: 25px;
     font-weight: 700;
+    max-width: 500px;
+    margin: auto;
 }
 
 .links-ze{
