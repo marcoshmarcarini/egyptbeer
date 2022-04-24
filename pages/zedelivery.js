@@ -1,8 +1,10 @@
 import Link from "next/link"
 import Image from "next/image"
+import CabecalhoZe from "../components/CabecalhoZe"
 export default function ZeDelivery(){
     return(
         <>
+            <CabecalhoZe/>
             <div className="bg-yellow-400 content-ze">
             <div className="logo-egypt-ze">
                     <Image src="/img/logo-preta.png" width={150} height={150} />
