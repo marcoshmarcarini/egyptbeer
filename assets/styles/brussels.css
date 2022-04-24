@@ -25,6 +25,7 @@ body{
     flex-wrap: wrap;
     justify-content: center;
     gap: 20px;
+    padding: 20px;
     margin: auto;
     align-items: center;
     animation: esquerda 1s ease-in-out;
@@ -123,6 +124,5 @@ body{
     }
     .brussels-txt{
         text-align: justify;
-        max-width: 400px all;
     }
 }
