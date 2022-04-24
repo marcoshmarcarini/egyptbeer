@@ -80,6 +80,9 @@ body{
     height: 100vh;
     text-align: center;
 }
+.logo-egypt-ze{
+    margin-top: 20px;
+}
 
 .titulo-ze{
     display: flex;

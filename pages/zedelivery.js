@@ -8,7 +8,7 @@ export default function ZeDelivery(){
                     <Image src="/img/logo-preta.png" width={150} height={150} />
                 </div>
                 <h1 className="titulo-ze">
-                    Baixe o app do Zé Delivery e faça o seu pedido!
+                    Baixe o app do Zé Delivery em sua loja de aplicativos e receba suas bebidas favoritas na sua casa!
                 </h1>
                 <div className="links-ze">
                     <Link href="https://play.google.com/store/apps/details?id=com.cerveceriamodelo.modelonow">
