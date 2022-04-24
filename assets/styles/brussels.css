@@ -1,0 +1,88 @@
+
+body{
+    background-color: #0f2515;
+}
+.brussels-body{
+    margin-top: 50px;
+}
+
+.brussels-area{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: auto;
+}
+.brussels-h1{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+
+.brussels-block{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: auto;
+    align-items: center;
+}
+.brussels-block-2{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin: auto;
+    background-color: #fff;
+    color: #0f2515;
+    width: 100vw;
+    padding: 20px;
+    align-items: center;
+}
+.brussels-h2{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.brussels-txt{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    max-width: 500px;
+}
+
+.brussels-img-area-1{
+    overflow: hidden;   
+}
+.brussels-img-area-1 img{
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.brussels-img-area-2{
+    overflow: hidden;   
+}
+.brussels-img-area-2 img{
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+
+.brussels-img-area-3{
+    overflow: hidden;
+}
+.brussels-img-area-3 img{
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.brussels-logo-egypt{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: auto;
+    justify-content: center;
+    margin-top: 25px;
+}
