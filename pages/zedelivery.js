@@ -4,7 +4,12 @@ export default function ZeDelivery(){
     return(
         <>
             <div className="bg-yellow-400 content-ze">
-                <h1 className="titulo-ze">Baixe o app do Zé Delivery e faça o seu pedido</h1>
+            <div className="logo-egypt-ze">
+                    <Image src="/img/logo-preta.png" width={150} height={150} />
+                </div>
+                <h1 className="titulo-ze">
+                    Baixe o app do Zé Delivery e faça o seu pedido!
+                </h1>
                 <div className="links-ze">
                     <Link href="https://play.google.com/store/apps/details?id=com.cerveceriamodelo.modelonow">
                         <a>
@@ -16,7 +21,6 @@ export default function ZeDelivery(){
                             <Image src="/img/app-store-badge.svg" width={135} height={45} />
                         </a>
                     </Link>
-                    
                    
                 </div>
                 <div className="logo-ze">
