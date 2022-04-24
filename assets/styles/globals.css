@@ -98,6 +98,7 @@ body{
     max-width: 450px;
     margin: auto;
     animation: aparecer 1s ease-in-out;
+    padding: 20px;
 }
 
 .links-ze{
